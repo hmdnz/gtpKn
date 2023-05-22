@@ -1,0 +1,48 @@
+youtube grinds
+1. Go Programming – Golang Course with Bonus Projects
+https://www.youtube.com/watch?v=un6ZyFkqFKo
+
+2.SQL Tutorial for Beginners (and Technical Interview Questions Solved)
+https://www.youtube.com/watch?v=-fW2X7fh7Yg
+
+3.Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners
+https://www.youtube.com/watch?v=krfUjg0S2uI
+
+
+4.Scrapy Course – Python Web Scraping for Beginners
+https://www.youtube.com/watch?v=mBoX_JCKZTE
+
+
+5.Zustand React State Management Course (Simple Redux Alternative)
+https://www.youtube.com/watch?v=fZPgBnL2x-Q
+
+6. React Router 6 – Full Course
+https://www.youtube.com/watch?v=nDGA3km5He4
+
+7.Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial
+https://www.youtube.com/watch?v=VPvVD8t02U8
+
+8.Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)
+https://www.youtube.com/watch?v=nu_pCVPKzTk
+
+9. Learn JavaScript - Full Course for Beginners
+https://www.youtube.com/watch?v=PkZNo7MFNFg
+
+10.Learn JavaScript by Building 7 Games - Full Course
+https://www.youtube.com/watch?v=ec8vSKJuZTk
+
+11. Python API Development - Comprehensive Course for Beginners
+https://www.youtube.com/watch?v=0sOvCWFmrtA
+
+12.Python Backend Web Development Course (with Django)
+https://www.youtube.com/watch?v=jBzwzrDvZ18
+
+13. HTML / CSS Tutorial – Create an Order Summary Component
+https://www.youtube.com/watch?v=SR5GxoFhIAU
+
+14.Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)
+https://www.youtube.com/watch?v=zJSY8tbf_ys
+
+
+15.Learn HTML5 and CSS3 From Scratch - Full Course
+https://www.youtube.com/watch?v=mU6anWqZJcc&t=11781s
